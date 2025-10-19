@@ -73,8 +73,9 @@ Determine if any combination is overall the best.
 Summarize findings: Recommend the optimal combination of prompting technique + AI platform for your task.
 
 ## Output
-![image alt](
+![image alt](https://github.com/SZESRIRAM/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/main/EXP%202.png?raw=true)
 
 ## Result
+This experiment shows how prompting techniques and AI platforms affect text summarization. It highlights the best combinations for accuracy, coherence, simplicity, speed, and user experience. Overall, choosing the right prompt and platform is key to producing clear, accurate, and student-friendly summaries.
 
 
