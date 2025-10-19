@@ -19,6 +19,62 @@ Speed
 User experience
 
 ## Algorithm
+Algorithm: Evaluating Prompting Techniques Across AI Platforms
+
+Input:
+
+A technical article (~500 words) on "The Basics of Blockchain Technology"
+
+AI platforms: ChatGPT, Gemini, Claude, Copilot
+
+Prompting techniques: Zero-shot, Few-shot, Chain-of-Thought, Role-based
+
+Output:
+
+A table showing the best combination of prompting technique + AI platform for each evaluation criterion (Accuracy, Coherence, Simplicity, Speed, User Experience)
+
+Steps:
+
+1.Prepare the Article
+Select a technical article (~500 words) suitable for undergraduate students.
+Ensure content is neutral, factual, and moderately complex.
+
+2.Define Prompting Techniques
+Zero-shot: Direct summarization without examples.
+Few-shot: Provide 1–2 example summaries before asking the AI to summarize.
+Chain-of-Thought: Ask the AI to reason step by step before generating a summary.
+Role-based: Ask the AI to assume the role of a professional content curator.
+
+3.Design Evaluation Criteria
+Accuracy: Correctness of key points.
+Coherence: Logical flow and readability.
+Simplicity: Understandable by undergraduate students.
+Speed: Response time.
+User Experience: Ease of interaction and output formatting.
+
+4.Execute Summarization
+For each AI platform:
+  For each prompting technique:
+    1.Input the article using the chosen prompt.
+    2.Record the summary output.
+    3.Note the response time.
+    4.Record any observations regarding user experience.
+
+5.Evaluate Outputs
+Score each summary on all evaluation criteria (e.g., 1–5 scale).
+Optionally, use multiple evaluators to reduce bias.
+
+6.Compile Results
+Create a table with columns: Goal, Best Prompting Technique, Best AI Platform, Reasoning.
+Fill in the table based on which combination scored highest for each criterion.
+
+7.Analyze Patterns
+Identify which prompting techniques and platforms excel in specific goals.
+Note any trade-offs (e.g., fastest output may not be most accurate).
+Determine if any combination is overall the best.
+
+8.Conclude
+Summarize findings: Recommend the optimal combination of prompting technique + AI platform for your task.
 
 ## Result
 
