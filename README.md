@@ -72,6 +72,9 @@ Determine if any combination is overall the best.
 8.Conclude
 Summarize findings: Recommend the optimal combination of prompting technique + AI platform for your task.
 
+## Output
+![image alt](
+
 ## Result
 
 
