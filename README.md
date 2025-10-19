@@ -22,15 +22,11 @@ User experience
 Algorithm: Evaluating Prompting Techniques Across AI Platforms
 
 Input:
-
-A technical article (~500 words) on "The Basics of Blockchain Technology"
-
-AI platforms: ChatGPT, Gemini, Claude, Copilot
-
-Prompting techniques: Zero-shot, Few-shot, Chain-of-Thought, Role-based
+  A technical article (~500 words) on "The Basics of Blockchain Technology"
+  AI platforms: ChatGPT, Gemini, Claude, Copilot
+  Prompting techniques: Zero-shot, Few-shot, Chain-of-Thought, Role-based
 
 Output:
-
 A table showing the best combination of prompting technique + AI platform for each evaluation criterion (Accuracy, Coherence, Simplicity, Speed, User Experience)
 
 Steps:
